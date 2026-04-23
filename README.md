@@ -1,10 +1,10 @@
 我在這個存放庫中將會放我的Writeups，我會用以下格式寫
 # Spookifier — HTB Very Easy
 
-Date:
-Time spent:
-Category (actual):
-Outcome:
+**Date:**
+**Time spent:**
+**Category (actual):**
+**Outcome:**
 
 ## 我試過什麼 & 結果
 
